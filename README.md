@@ -7,15 +7,15 @@ https://medium.com/@Aminatta/exploratory-data-analysis-and-real-time-classificat
 
 This notebook gives a peek into some exploratory data analysis and model development considerations for real-time sensing data to help identify bacteria responsible for Urinary Tract Infections. It aims to answer three questions to help with these considerations:
 
-1. Are the sensors we are using effective in distinguishing between normal human urine, infected human urine, and lab air?
+**1. Are the sensors we are using effective in distinguishing between normal human urine, infected human urine, and lab air?**
  
  Using dimensionality reduction techniques such as Principal Component Analysis our variance is successfully captured and we are able to distinguish between the clusters, showing that our sensors will be able to successfully distinguish between the three groups.
 
-2. Can we build a predictive classification model that can tell the difference between data collected on one day and tested on another?
+**2. Can we build a predictive classification model that can tell the difference between data collected on one day and tested on another?**
 
 We are able to do this using XGBOOST, building a model with data collected on one day, and testing it on newly collected data on the second day. 
 
-3. Could condensing our data to be more efficient improve our model? 
+**3. Could condensing our data to be more efficient improve our model?**
 
 Using the condensed PCA dataset, we were able to improve the accuracy of the model with data collected on another day. 
 
