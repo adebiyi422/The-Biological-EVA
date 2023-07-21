@@ -9,7 +9,7 @@ This notebook gives a peek into some exploratory data analysis and model develop
 
 1. Are the sensors we are using effective in distinguishing between normal human urine, infected human urine, and lab air?
  
- Using dimensionality reduction techniques such as Principal Component Analysis our variance is successfully captured and we are able to distinguish between the clusters, showing that our sensors will be able to successful distinguish between the three groups.
+ Using dimensionality reduction techniques such as Principal Component Analysis our variance is successfully captured and we are able to distinguish between the clusters, showing that our sensors will be able to successfully distinguish between the three groups.
 
 2. Can we build a predictive classification model that can tell the difference between data collected on one day and tested on another?
 
