@@ -22,7 +22,7 @@ Using the condensed PCA dataset, we were able to improve the accuracy of the mod
 
 ## Files Included:
 
-#demo_for_beva.ipynb - a Python Jupyter notebook that takes us through exploratory data analysis 
+#demo_for_beva.ipynb - a Python Jupyter notebook that takes us through exploratory data analysis and model development for the BEVA.
 
 #bevafun.py - python function that helps us prepare our data matrix for PCA, plotting variance and returning the normalized dataframe.
 
@@ -33,7 +33,7 @@ Using the condensed PCA dataset, we were able to improve the accuracy of the mod
 beva.PNG - image of the Biological EVA (TM) prototype.
 
 ## Libraries Used:
-The following python libraries were used in this projec:
+The following python libraries were used in this project:
 
 * numpy==1.20.1
 * pandas==1.2.4
