@@ -1,5 +1,3 @@
-# The-Biological-EVA
-
 # THE BIOLOGICAL EVA™
 
 ![Alt text](beva.PNG)
